@@ -47,7 +47,8 @@ The **Files changed** tab is the primary place for collecting feedback. It allow
 
 1. Enter the following comment and click the **Submit review** button.
 
-   ```md
+   ```md```suggestion
+<h2 hidden>Game over! Want to play again?! Just click refresh. 🧑‍🚀!</h2>
    Looks good to me. I think this is more intuitive. Nice work!
    ```
 
